@@ -1,20 +1,19 @@
-# Memory Game Project
+# Memory Game (Udacity Project)
+> Simple Find and Make Match
 
-## Table of Contents
+## Simple and Easy to Play
+### Instructions: 
+> Find Total of 8 Matches! Sounds easy? 
+Well can you do it within 
+- 8 Moves for 3 stars?
+- 12 Moves for 2 stars?
+- 16 Moves for 1 star?
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+### Timer:
+> There is going to be a timer as soon as you load the game! How fast can you find match them all?
 
-## Instructions
+### Move Counter:
+> Every 2nd click will count as a move, can you match them all under 8 moves?!
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+### Controls:
+> Click on the card and it flip to show you the picture to match with the 2nd click.
