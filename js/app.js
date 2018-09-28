@@ -64,7 +64,7 @@ const matchedCards = () => {
 	
 
   // If total 8 matches than this alert will show
-  if (numberMatches == 2){
+  if (numberMatches == 8){
 
     // 
     setTimeout(() => {
